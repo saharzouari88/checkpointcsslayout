@@ -1,0 +1,89 @@
+/* .s_color{ */
+    /* background-image: url(warsaw.png); */
+    /* } */
+.fullogo{
+padding: 0 20px;
+/* padding-top: 20; */
+margin:0 167px;
+}
+.container {
+    display: flex;
+    
+}
+.flex-container  {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+li{
+    list-style: none;
+    display: inline;
+
+}
+.logo
+{
+    margin: 0 468px;
+    line-height: 20.8px;
+    font-size: 16px;
+    max-width: 100%;
+    margin: 0 468px 0 468px;
+    font-family: Roboto, Arial, sans-serif;
+    width: 40px;
+    height: 39px;
+
+}
+.li1{
+    color: rgb(22, 184, 135);
+    cursor: pointer;
+    display: inline;
+}
+.li2{
+    color: grey;
+    cursor: pointer;
+    display: inline;
+}
+.li2:hover{
+    color: rgb(22, 184, 135);
+}
+.li3{
+    color: grey;
+    cursor: pointer;
+    display: inline;
+}
+.li3:hover
+{
+    color: rgb(22, 184, 135);
+}
+h2{
+    color:  #00B39B;
+    letter-spacing: -0.3px;
+    width: 100%;
+    height: 44px;
+    margin: 34px 0 34px 0;
+    text-align: center;
+    letter-spacing: -0.3px;
+    font-family: Work Sans,Arial,sans-serif;
+    font-size: 34px;
+    font-weight: 300;
+    line-height: 44.2px;
+    text-decoration: none solid rgb(0, 179, 155);
+    word-spacing: 0px;
+
+}
+p{
+    display: inline-block;
+    padding: 40px;
+    margin: 40px;
+    /* border: 4px solid #f7f5f5; */
+    /* border-radius: 10px; */
+    color:  #747474;
+    font-family: Roboto, Arial, sans-serif;
+    line-height: 28px;
+    font-weight: bolder;
+    font-size: 16px;
+    height: 112px;
+    width: 477.5px;
+    margin: 13px 0 13px 0;
+}
